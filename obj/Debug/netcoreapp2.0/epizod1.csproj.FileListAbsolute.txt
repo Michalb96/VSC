@@ -1,0 +1,10 @@
+C:\Users\Michał\Desktop\MVSC\epizod1\bin\Debug\netcoreapp2.0\epizod1.deps.json
+C:\Users\Michał\Desktop\MVSC\epizod1\bin\Debug\netcoreapp2.0\epizod1.runtimeconfig.json
+C:\Users\Michał\Desktop\MVSC\epizod1\bin\Debug\netcoreapp2.0\epizod1.runtimeconfig.dev.json
+C:\Users\Michał\Desktop\MVSC\epizod1\bin\Debug\netcoreapp2.0\epizod1.dll
+C:\Users\Michał\Desktop\MVSC\epizod1\bin\Debug\netcoreapp2.0\epizod1.pdb
+C:\Users\Michał\Desktop\MVSC\epizod1\obj\Debug\netcoreapp2.0\epizod1.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\MVSC\epizod1\obj\Debug\netcoreapp2.0\epizod1.AssemblyInfoInputs.cache
+C:\Users\Michał\Desktop\MVSC\epizod1\obj\Debug\netcoreapp2.0\epizod1.AssemblyInfo.cs
+C:\Users\Michał\Desktop\MVSC\epizod1\obj\Debug\netcoreapp2.0\epizod1.dll
+C:\Users\Michał\Desktop\MVSC\epizod1\obj\Debug\netcoreapp2.0\epizod1.pdb
